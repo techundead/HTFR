@@ -1,0 +1,22 @@
+C:\apps\HeliosIII\HELIOS TRANSFERT Client\HeliosTransfert.Services\bin\x64\Debug\HeliosTransfert.Services.dll
+C:\apps\HeliosIII\HELIOS TRANSFERT Client\HeliosTransfert.Services\bin\x64\Debug\HeliosTransfert.Services.pdb
+C:\apps\HeliosIII\HELIOS TRANSFERT Client\HeliosTransfert.Services\bin\x64\Debug\HeliosTransfert.Business.dll
+C:\apps\HeliosIII\HELIOS TRANSFERT Client\HeliosTransfert.Services\bin\x64\Debug\HeliosTransfert.Business.Dto.dll
+C:\apps\HeliosIII\HELIOS TRANSFERT Client\HeliosTransfert.Services\bin\x64\Debug\Ftp.dll
+C:\apps\HeliosIII\HELIOS TRANSFERT Client\HeliosTransfert.Services\bin\x64\Debug\HeliosTransfert.Business.Dto.pdb
+C:\apps\HeliosIII\HELIOS TRANSFERT Client\HeliosTransfert.Services\bin\x64\Debug\HeliosTransfert.Business.pdb
+C:\apps\HeliosIII\HELIOS TRANSFERT Client\HeliosTransfert.Services\bin\x64\Debug\Ftp.xml
+C:\apps\HeliosIII\HELIOS TRANSFERT Client\HeliosTransfert.Services\obj\x64\Debug\HeliosTransfert.Services.csprojResolveAssemblyReference.cache
+C:\apps\HeliosIII\HELIOS TRANSFERT Client\HeliosTransfert.Services\obj\x64\Debug\HeliosTransfert.Services.dll
+C:\apps\HeliosIII\HELIOS TRANSFERT Client\HeliosTransfert.Services\obj\x64\Debug\HeliosTransfert.Services.pdb
+C:\apps\HeliosIII\HELIOS TRANSFERT\HELIOS TRANSFERT Client\HeliosTransfert.Services\obj\x64\Debug\HeliosTransfert.Services.csprojResolveAssemblyReference.cache
+C:\apps\HeliosIII\HELIOS TRANSFERT\HELIOS TRANSFERT Client\HeliosTransfert.Services\obj\x64\Debug\HeliosTransfert.Services.dll
+C:\apps\HeliosIII\HELIOS TRANSFERT\HELIOS TRANSFERT Client\HeliosTransfert.Services\obj\x64\Debug\HeliosTransfert.Services.pdb
+C:\apps\HeliosIII\HELIOS TRANSFERT\HELIOS TRANSFERT Client\HeliosTransfert.Services\bin\x64\Debug\HeliosTransfert.Services.dll
+C:\apps\HeliosIII\HELIOS TRANSFERT\HELIOS TRANSFERT Client\HeliosTransfert.Services\bin\x64\Debug\HeliosTransfert.Services.pdb
+C:\apps\HeliosIII\HELIOS TRANSFERT\HELIOS TRANSFERT Client\HeliosTransfert.Services\bin\x64\Debug\HeliosTransfert.Business.dll
+C:\apps\HeliosIII\HELIOS TRANSFERT\HELIOS TRANSFERT Client\HeliosTransfert.Services\bin\x64\Debug\HeliosTransfert.Business.Dto.dll
+C:\apps\HeliosIII\HELIOS TRANSFERT\HELIOS TRANSFERT Client\HeliosTransfert.Services\bin\x64\Debug\Ftp.dll
+C:\apps\HeliosIII\HELIOS TRANSFERT\HELIOS TRANSFERT Client\HeliosTransfert.Services\bin\x64\Debug\HeliosTransfert.Business.Dto.pdb
+C:\apps\HeliosIII\HELIOS TRANSFERT\HELIOS TRANSFERT Client\HeliosTransfert.Services\bin\x64\Debug\HeliosTransfert.Business.pdb
+C:\apps\HeliosIII\HELIOS TRANSFERT\HELIOS TRANSFERT Client\HeliosTransfert.Services\bin\x64\Debug\Ftp.xml

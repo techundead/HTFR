@@ -1,0 +1,10 @@
+C:\Apps\DotNet 2013\Global\Global.Oracle\bin\Release\Global.Oracle.dll
+C:\Apps\DotNet 2013\Global\Global.Oracle\bin\Release\Global.Business.Dto.dll
+C:\Apps\DotNet 2013\Global\Global.Oracle\bin\Release\Oracle.DataAccess.dll
+C:\Apps\DotNet 2013\Global\Global.Oracle\obj\Release\Global.Oracle.csprojResolveAssemblyReference.cache
+C:\Apps\DotNet 2013\Global\Global.Oracle\obj\Release\Global.Oracle.dll
+C:\apps\DotNet 2017\CynapsV2\Dev\Global\Global.Oracle\bin\Release\Global.Oracle.dll
+C:\apps\DotNet 2017\CynapsV2\Dev\Global\Global.Oracle\bin\Release\Global.Business.Dto.dll
+C:\apps\DotNet 2017\CynapsV2\Dev\Global\Global.Oracle\obj\Release\Global.Oracle.csprojResolveAssemblyReference.cache
+C:\apps\DotNet 2017\CynapsV2\Dev\Global\Global.Oracle\obj\Release\Global.Oracle.csproj.CoreCompileInputs.cache
+C:\apps\DotNet 2017\CynapsV2\Dev\Global\Global.Oracle\obj\Release\Global.Oracle.dll

@@ -1,0 +1,135 @@
+C:\apps\HeliosIII\HELIOS TRANSFERT\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Debug\Base.config
+C:\apps\HeliosIII\HELIOS TRANSFERT\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Debug\HELIOS TRANSFERT Serveur.exe.config
+C:\apps\HeliosIII\HELIOS TRANSFERT\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Debug\HELIOS TRANSFERT Serveur.exe
+C:\apps\HeliosIII\HELIOS TRANSFERT\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Debug\HELIOS TRANSFERT Serveur.pdb
+C:\apps\HeliosIII\HELIOS TRANSFERT\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Debug\HeliosTransfert.Business.Dto.dll
+C:\apps\HeliosIII\HELIOS TRANSFERT\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Debug\HeliosTransfert.Services.dll
+C:\apps\HeliosIII\HELIOS TRANSFERT\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Debug\Global.Business.Dto.dll
+C:\apps\HeliosIII\HELIOS TRANSFERT\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Debug\Ftp.dll
+C:\apps\HeliosIII\HELIOS TRANSFERT\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Debug\HeliosTransfert.Business.dll
+C:\apps\HeliosIII\HELIOS TRANSFERT\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Debug\HeliosTransfert.Dal.dll
+C:\apps\HeliosIII\HELIOS TRANSFERT\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Debug\Global.Oracle.dll
+C:\apps\HeliosIII\HELIOS TRANSFERT\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Debug\Oracle.DataAccess.dll
+C:\apps\HeliosIII\HELIOS TRANSFERT\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Debug\HeliosTransfert.Business.Dto.pdb
+C:\apps\HeliosIII\HELIOS TRANSFERT\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Debug\HeliosTransfert.Services.pdb
+C:\apps\HeliosIII\HELIOS TRANSFERT\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Debug\Global.Business.Dto.pdb
+C:\apps\HeliosIII\HELIOS TRANSFERT\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Debug\HeliosTransfert.Business.pdb
+C:\apps\HeliosIII\HELIOS TRANSFERT\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Debug\HeliosTransfert.Dal.pdb
+C:\apps\HeliosIII\HELIOS TRANSFERT\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Debug\Global.Oracle.pdb
+C:\apps\HeliosIII\HELIOS TRANSFERT\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\obj\Debug\HELIOS TRANSFERT Serveur.csprojResolveAssemblyReference.cache
+C:\apps\HeliosIII\HELIOS TRANSFERT\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\obj\Debug\HELIOS_TRANSFERT_Serveur.HeliosTransfertClient.resources
+C:\apps\HeliosIII\HELIOS TRANSFERT\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\obj\Debug\HELIOS_TRANSFERT_Serveur.Client.WinFlux.resources
+C:\apps\HeliosIII\HELIOS TRANSFERT\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\obj\Debug\HELIOS_TRANSFERT_Serveur.Client.WinServeur.resources
+C:\apps\HeliosIII\HELIOS TRANSFERT\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\obj\Debug\HELIOS_TRANSFERT_Serveur.Serveur.WinClient.resources
+C:\apps\HeliosIII\HELIOS TRANSFERT\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\obj\Debug\HELIOS_TRANSFERT_Serveur.HeliosTransfertServeur.resources
+C:\apps\HeliosIII\HELIOS TRANSFERT\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\obj\Debug\HELIOS_TRANSFERT_Serveur.Properties.Resources.resources
+C:\apps\HeliosIII\HELIOS TRANSFERT\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\obj\Debug\HELIOS_TRANSFERT_Serveur.Serveur.WinFluxServeur.resources
+C:\apps\HeliosIII\HELIOS TRANSFERT\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\obj\Debug\HELIOS_TRANSFERT_Serveur.Serveur.WinParametreServeur.resources
+C:\apps\HeliosIII\HELIOS TRANSFERT\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\obj\Debug\HELIOS TRANSFERT Serveur.csproj.GenerateResource.Cache
+C:\apps\HeliosIII\HELIOS TRANSFERT\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\obj\Debug\HELIOS TRANSFERT Serveur.exe
+C:\apps\HeliosIII\HELIOS TRANSFERT\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\obj\Debug\HELIOS TRANSFERT Serveur.pdb
+C:\apps\HeliosIII\HELIOS TRANSFERT\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\obj\Debug\HELIOS_TRANSFERT_Serveur.Client.WinLstFluxServeurs.resources
+C:\Users\ma.lasarte\Documents\Partage_VM\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Debug\Base.config
+C:\Users\ma.lasarte\Documents\Partage_VM\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Debug\HeliosTransfert.Business.Dto.dll
+C:\Users\ma.lasarte\Documents\Partage_VM\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Debug\HeliosTransfert.Services.dll
+C:\Users\ma.lasarte\Documents\Partage_VM\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Debug\Global.Business.Dto.dll
+C:\Users\ma.lasarte\Documents\Partage_VM\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Debug\FluentFTP.dll
+C:\Users\ma.lasarte\Documents\Partage_VM\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Debug\HeliosTransfert.Business.dll
+C:\Users\ma.lasarte\Documents\Partage_VM\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Debug\HeliosTransfert.Dal.dll
+C:\Users\ma.lasarte\Documents\Partage_VM\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Debug\Global.Oracle.dll
+C:\Users\ma.lasarte\Documents\Partage_VM\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Debug\Oracle.DataAccess.dll
+C:\Users\ma.lasarte\Documents\Partage_VM\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Debug\HeliosTransfert.Business.Dto.pdb
+C:\Users\ma.lasarte\Documents\Partage_VM\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Debug\HeliosTransfert.Services.pdb
+C:\Users\ma.lasarte\Documents\Partage_VM\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Debug\Global.Business.Dto.pdb
+C:\Users\ma.lasarte\Documents\Partage_VM\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Debug\FluentFTP.xml
+C:\Users\ma.lasarte\Documents\Partage_VM\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Debug\HeliosTransfert.Business.pdb
+C:\Users\ma.lasarte\Documents\Partage_VM\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Debug\HeliosTransfert.Dal.pdb
+C:\Users\ma.lasarte\Documents\Partage_VM\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Debug\Global.Oracle.pdb
+C:\Users\ma.lasarte\Documents\Partage_VM\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\obj\Debug\HELIOS TRANSFERT Serveur.csprojResolveAssemblyReference.cache
+C:\Users\ma.lasarte\Documents\Partage_VM\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\obj\Debug\HELIOS_TRANSFERT_Serveur.HeliosTransfertClient.resources
+C:\Users\ma.lasarte\Documents\Partage_VM\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\obj\Debug\HELIOS_TRANSFERT_Serveur.Client.WinFlux.resources
+C:\Users\ma.lasarte\Documents\Partage_VM\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\obj\Debug\HELIOS_TRANSFERT_Serveur.Client.WinLstFluxServeurs.resources
+C:\Users\ma.lasarte\Documents\Partage_VM\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\obj\Debug\HELIOS_TRANSFERT_Serveur.Client.WinServeur.resources
+C:\Users\ma.lasarte\Documents\Partage_VM\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\obj\Debug\HELIOS_TRANSFERT_Serveur.Serveur.WinClient.resources
+C:\Users\ma.lasarte\Documents\Partage_VM\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\obj\Debug\HELIOS_TRANSFERT_Serveur.HeliosTransfertServeur.resources
+C:\Users\ma.lasarte\Documents\Partage_VM\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\obj\Debug\HELIOS_TRANSFERT_Serveur.Properties.Resources.resources
+C:\Users\ma.lasarte\Documents\Partage_VM\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\obj\Debug\HELIOS_TRANSFERT_Serveur.Serveur.WinFluxServeur.resources
+C:\Users\ma.lasarte\Documents\Partage_VM\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\obj\Debug\HELIOS_TRANSFERT_Serveur.Serveur.WinParametreServeur.resources
+C:\Users\ma.lasarte\Documents\Partage_VM\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\obj\Debug\HELIOS_TRANSFERT_Serveur.WinParametrage.resources
+C:\Users\ma.lasarte\Documents\Partage_VM\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\obj\Debug\HELIOS TRANSFERT Serveur.csproj.GenerateResource.Cache
+C:\Users\ma.lasarte\Documents\Partage_VM\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Debug\HELIOSTRANSFERT.exe.config
+C:\Users\ma.lasarte\Documents\Partage_VM\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Debug\HELIOSTRANSFERT.exe
+C:\Users\ma.lasarte\Documents\Partage_VM\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Debug\HELIOSTRANSFERT.pdb
+C:\Users\ma.lasarte\Documents\Partage_VM\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\obj\Debug\HELIOSTRANSFERT.exe
+C:\Users\ma.lasarte\Documents\Partage_VM\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\obj\Debug\HELIOSTRANSFERT.pdb
+E:\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Debug\Base.config
+E:\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Debug\HELIOSTRANSFERT.exe.config
+E:\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Debug\HELIOSTRANSFERT.exe
+E:\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Debug\HELIOSTRANSFERT.pdb
+E:\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Debug\HeliosTransfert.Business.Dto.dll
+E:\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Debug\HeliosTransfert.Services.dll
+E:\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Debug\Global.Business.Dto.dll
+E:\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Debug\FluentFTP.dll
+E:\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Debug\HeliosTransfert.Business.dll
+E:\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Debug\HeliosTransfert.Dal.dll
+E:\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Debug\Global.Oracle.dll
+E:\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Debug\Oracle.DataAccess.dll
+E:\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Debug\HeliosTransfert.Business.Dto.pdb
+E:\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Debug\HeliosTransfert.Services.pdb
+E:\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Debug\Global.Business.Dto.pdb
+E:\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Debug\FluentFTP.xml
+E:\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Debug\HeliosTransfert.Business.pdb
+E:\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Debug\HeliosTransfert.Dal.pdb
+E:\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Debug\Global.Oracle.pdb
+E:\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\obj\Debug\HELIOS TRANSFERT Serveur.csprojResolveAssemblyReference.cache
+E:\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\obj\Debug\HELIOS_TRANSFERT_Serveur.HeliosTransfertClient.resources
+E:\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\obj\Debug\HELIOS_TRANSFERT_Serveur.Client.WinFlux.resources
+E:\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\obj\Debug\HELIOS_TRANSFERT_Serveur.Client.WinLstFluxServeurs.resources
+E:\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\obj\Debug\HELIOS_TRANSFERT_Serveur.Client.WinServeur.resources
+E:\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\obj\Debug\HELIOS_TRANSFERT_Serveur.Serveur.WinClient.resources
+E:\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\obj\Debug\HELIOS_TRANSFERT_Serveur.HeliosTransfertServeur.resources
+E:\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\obj\Debug\HELIOS_TRANSFERT_Serveur.Properties.Resources.resources
+E:\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\obj\Debug\HELIOS_TRANSFERT_Serveur.Serveur.WinFluxServeur.resources
+E:\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\obj\Debug\HELIOS_TRANSFERT_Serveur.Serveur.WinParametreServeur.resources
+E:\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\obj\Debug\HELIOS_TRANSFERT_Serveur.WinParametrage.resources
+E:\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\obj\Debug\HELIOS TRANSFERT Serveur.csproj.GenerateResource.Cache
+E:\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\obj\Debug\HELIOS TRANSFERT Serveur.csproj.CoreCompileInputs.cache
+E:\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\obj\Debug\HELIOSTRANSFERT.exe
+E:\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\obj\Debug\HELIOSTRANSFERT.pdb
+U:\Stagiaires\Stage\Marc-Antoine Lasarte\Projet\Super Cube - Consolidation des données BO-BI\HELIOS Transfert\Développement\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Debug\Base.config
+U:\Stagiaires\Stage\Marc-Antoine Lasarte\Projet\Super Cube - Consolidation des données BO-BI\HELIOS Transfert\Développement\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Debug\HELIOSTRANSFERT.exe.config
+U:\Stagiaires\Stage\Marc-Antoine Lasarte\Projet\Super Cube - Consolidation des données BO-BI\HELIOS Transfert\Développement\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Debug\HELIOSTRANSFERT.exe
+U:\Stagiaires\Stage\Marc-Antoine Lasarte\Projet\Super Cube - Consolidation des données BO-BI\HELIOS Transfert\Développement\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Debug\HELIOSTRANSFERT.pdb
+U:\Stagiaires\Stage\Marc-Antoine Lasarte\Projet\Super Cube - Consolidation des données BO-BI\HELIOS Transfert\Développement\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Debug\HeliosTransfert.Business.Dto.dll
+U:\Stagiaires\Stage\Marc-Antoine Lasarte\Projet\Super Cube - Consolidation des données BO-BI\HELIOS Transfert\Développement\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Debug\HeliosTransfert.Services.dll
+U:\Stagiaires\Stage\Marc-Antoine Lasarte\Projet\Super Cube - Consolidation des données BO-BI\HELIOS Transfert\Développement\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Debug\Global.Business.Dto.dll
+U:\Stagiaires\Stage\Marc-Antoine Lasarte\Projet\Super Cube - Consolidation des données BO-BI\HELIOS Transfert\Développement\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Debug\FluentFTP.dll
+U:\Stagiaires\Stage\Marc-Antoine Lasarte\Projet\Super Cube - Consolidation des données BO-BI\HELIOS Transfert\Développement\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Debug\HeliosTransfert.Business.dll
+U:\Stagiaires\Stage\Marc-Antoine Lasarte\Projet\Super Cube - Consolidation des données BO-BI\HELIOS Transfert\Développement\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Debug\HeliosTransfert.Dal.dll
+U:\Stagiaires\Stage\Marc-Antoine Lasarte\Projet\Super Cube - Consolidation des données BO-BI\HELIOS Transfert\Développement\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Debug\Global.Oracle.dll
+U:\Stagiaires\Stage\Marc-Antoine Lasarte\Projet\Super Cube - Consolidation des données BO-BI\HELIOS Transfert\Développement\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Debug\Oracle.DataAccess.dll
+U:\Stagiaires\Stage\Marc-Antoine Lasarte\Projet\Super Cube - Consolidation des données BO-BI\HELIOS Transfert\Développement\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Debug\HeliosTransfert.Business.Dto.pdb
+U:\Stagiaires\Stage\Marc-Antoine Lasarte\Projet\Super Cube - Consolidation des données BO-BI\HELIOS Transfert\Développement\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Debug\HeliosTransfert.Services.pdb
+U:\Stagiaires\Stage\Marc-Antoine Lasarte\Projet\Super Cube - Consolidation des données BO-BI\HELIOS Transfert\Développement\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Debug\Global.Business.Dto.pdb
+U:\Stagiaires\Stage\Marc-Antoine Lasarte\Projet\Super Cube - Consolidation des données BO-BI\HELIOS Transfert\Développement\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Debug\FluentFTP.xml
+U:\Stagiaires\Stage\Marc-Antoine Lasarte\Projet\Super Cube - Consolidation des données BO-BI\HELIOS Transfert\Développement\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Debug\HeliosTransfert.Business.pdb
+U:\Stagiaires\Stage\Marc-Antoine Lasarte\Projet\Super Cube - Consolidation des données BO-BI\HELIOS Transfert\Développement\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Debug\HeliosTransfert.Dal.pdb
+U:\Stagiaires\Stage\Marc-Antoine Lasarte\Projet\Super Cube - Consolidation des données BO-BI\HELIOS Transfert\Développement\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Debug\Global.Oracle.pdb
+U:\Stagiaires\Stage\Marc-Antoine Lasarte\Projet\Super Cube - Consolidation des données BO-BI\HELIOS Transfert\Développement\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\obj\Debug\HELIOS TRANSFERT Serveur.csprojResolveAssemblyReference.cache
+U:\Stagiaires\Stage\Marc-Antoine Lasarte\Projet\Super Cube - Consolidation des données BO-BI\HELIOS Transfert\Développement\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\obj\Debug\HELIOS_TRANSFERT_Serveur.HeliosTransfertClient.resources
+U:\Stagiaires\Stage\Marc-Antoine Lasarte\Projet\Super Cube - Consolidation des données BO-BI\HELIOS Transfert\Développement\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\obj\Debug\HELIOS_TRANSFERT_Serveur.Client.WinFlux.resources
+U:\Stagiaires\Stage\Marc-Antoine Lasarte\Projet\Super Cube - Consolidation des données BO-BI\HELIOS Transfert\Développement\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\obj\Debug\HELIOS_TRANSFERT_Serveur.Client.WinLstFluxServeurs.resources
+U:\Stagiaires\Stage\Marc-Antoine Lasarte\Projet\Super Cube - Consolidation des données BO-BI\HELIOS Transfert\Développement\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\obj\Debug\HELIOS_TRANSFERT_Serveur.Client.WinServeur.resources
+U:\Stagiaires\Stage\Marc-Antoine Lasarte\Projet\Super Cube - Consolidation des données BO-BI\HELIOS Transfert\Développement\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\obj\Debug\HELIOS_TRANSFERT_Serveur.Serveur.WinClient.resources
+U:\Stagiaires\Stage\Marc-Antoine Lasarte\Projet\Super Cube - Consolidation des données BO-BI\HELIOS Transfert\Développement\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\obj\Debug\HELIOS_TRANSFERT_Serveur.HeliosTransfertServeur.resources
+U:\Stagiaires\Stage\Marc-Antoine Lasarte\Projet\Super Cube - Consolidation des données BO-BI\HELIOS Transfert\Développement\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\obj\Debug\HELIOS_TRANSFERT_Serveur.Properties.Resources.resources
+U:\Stagiaires\Stage\Marc-Antoine Lasarte\Projet\Super Cube - Consolidation des données BO-BI\HELIOS Transfert\Développement\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\obj\Debug\HELIOS_TRANSFERT_Serveur.Serveur.WinFluxServeur.resources
+U:\Stagiaires\Stage\Marc-Antoine Lasarte\Projet\Super Cube - Consolidation des données BO-BI\HELIOS Transfert\Développement\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\obj\Debug\HELIOS_TRANSFERT_Serveur.Serveur.WinParametreServeur.resources
+U:\Stagiaires\Stage\Marc-Antoine Lasarte\Projet\Super Cube - Consolidation des données BO-BI\HELIOS Transfert\Développement\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\obj\Debug\HELIOS_TRANSFERT_Serveur.WinParametrage.resources
+U:\Stagiaires\Stage\Marc-Antoine Lasarte\Projet\Super Cube - Consolidation des données BO-BI\HELIOS Transfert\Développement\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\obj\Debug\HELIOS TRANSFERT Serveur.csproj.GenerateResource.cache
+U:\Stagiaires\Stage\Marc-Antoine Lasarte\Projet\Super Cube - Consolidation des données BO-BI\HELIOS Transfert\Développement\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\obj\Debug\HELIOS TRANSFERT Serveur.csproj.CoreCompileInputs.cache
+U:\Stagiaires\Stage\Marc-Antoine Lasarte\Projet\Super Cube - Consolidation des données BO-BI\HELIOS Transfert\Développement\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\obj\Debug\HELIOS TRANSFERT Serveur.csproj.CopyComplete
+U:\Stagiaires\Stage\Marc-Antoine Lasarte\Projet\Super Cube - Consolidation des données BO-BI\HELIOS Transfert\Développement\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\obj\Debug\HELIOSTRANSFERT.exe
+U:\Stagiaires\Stage\Marc-Antoine Lasarte\Projet\Super Cube - Consolidation des données BO-BI\HELIOS Transfert\Développement\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\obj\Debug\HELIOSTRANSFERT.pdb
+C:\Users\ma.lasarte\Documents\Partage_VM\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\obj\Debug\HELIOS TRANSFERT Serveur.csproj.CoreCompileInputs.cache
+C:\Users\ma.lasarte\Documents\Partage_VM\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\obj\Debug\HELIOS TRANSFERT Serveur.csproj.CopyComplete

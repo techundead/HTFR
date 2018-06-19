@@ -1,0 +1,6 @@
+C:\Apps\DotNet 2013\PDP\Dev\PDP.Dal.Oracle\obj\Debug\PDP.Dal.Oracle.csprojResolveAssemblyReference.cache
+C:\Apps\DotNet 2013\PDP\Dev\PDP.Dal.Oracle\bin\Debug\PDP.Dal.Oracle.dll
+C:\Apps\DotNet 2013\PDP\Dev\PDP.Dal.Oracle\bin\Debug\PDP.Dal.Oracle.pdb
+C:\Apps\DotNet 2013\PDP\Dev\PDP.Dal.Oracle\bin\Debug\Oracle.DataAccess.dll
+C:\Apps\DotNet 2013\PDP\Dev\PDP.Dal.Oracle\obj\Debug\PDP.Dal.Oracle.dll
+C:\Apps\DotNet 2013\PDP\Dev\PDP.Dal.Oracle\obj\Debug\PDP.Dal.Oracle.pdb

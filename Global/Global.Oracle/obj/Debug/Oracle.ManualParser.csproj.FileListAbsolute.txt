@@ -1,0 +1,14 @@
+C:\Apps\DotNet 2013\Oracle\Oracle.ManualParser\bin\Debug\Oracle.ManualParser.dll
+C:\Apps\DotNet 2013\Oracle\Oracle.ManualParser\bin\Debug\Oracle.ManualParser.pdb
+C:\Apps\DotNet 2013\Oracle\Oracle.ManualParser\bin\Debug\Oracle.DataAccess.dll
+C:\Apps\DotNet 2013\Oracle\Oracle.ManualParser\obj\Debug\Oracle.ManualParser.csprojResolveAssemblyReference.cache
+C:\Apps\DotNet 2013\Oracle\Oracle.ManualParser\obj\Debug\Oracle.ManualParser.dll
+C:\Apps\DotNet 2013\Oracle\Oracle.ManualParser\obj\Debug\Oracle.ManualParser.pdb
+C:\Apps\DotNet 2013\Librairies\Oracle.ManualParser\bin\Debug\Oracle.ManualParser.dll
+C:\Apps\DotNet 2013\Librairies\Oracle.ManualParser\bin\Debug\Oracle.ManualParser.pdb
+C:\Apps\DotNet 2013\Librairies\Oracle.ManualParser\bin\Debug\Global.Business.Dto.dll
+C:\Apps\DotNet 2013\Librairies\Oracle.ManualParser\bin\Debug\Oracle.DataAccess.dll
+C:\Apps\DotNet 2013\Librairies\Oracle.ManualParser\bin\Debug\Global.Business.Dto.pdb
+C:\Apps\DotNet 2013\Librairies\Oracle.ManualParser\obj\Debug\Oracle.ManualParser.csprojResolveAssemblyReference.cache
+C:\Apps\DotNet 2013\Librairies\Oracle.ManualParser\obj\Debug\Oracle.ManualParser.dll
+C:\Apps\DotNet 2013\Librairies\Oracle.ManualParser\obj\Debug\Oracle.ManualParser.pdb

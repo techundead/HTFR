@@ -1,0 +1,73 @@
+C:\apps\HeliosIII\HELIOS TRANSFERT Client\HeliosTransfert.Dal\obj\Debug\HeliosTransfert.Dal.csprojResolveAssemblyReference.cache
+C:\apps\HeliosIII\HELIOS TRANSFERT Client\HeliosTransfert.Dal\bin\Debug\HeliosTransfert.Dal.dll
+C:\apps\HeliosIII\HELIOS TRANSFERT Client\HeliosTransfert.Dal\bin\Debug\HeliosTransfert.Dal.pdb
+C:\apps\HeliosIII\HELIOS TRANSFERT Client\HeliosTransfert.Dal\bin\Debug\Global.Oracle.dll
+C:\apps\HeliosIII\HELIOS TRANSFERT Client\HeliosTransfert.Dal\bin\Debug\HeliosTransfert.Business.Dto.dll
+C:\apps\HeliosIII\HELIOS TRANSFERT Client\HeliosTransfert.Dal\bin\Debug\Global.Business.Dto.dll
+C:\apps\HeliosIII\HELIOS TRANSFERT Client\HeliosTransfert.Dal\bin\Debug\Ftp.dll
+C:\apps\HeliosIII\HELIOS TRANSFERT Client\HeliosTransfert.Dal\bin\Debug\Global.Oracle.pdb
+C:\apps\HeliosIII\HELIOS TRANSFERT Client\HeliosTransfert.Dal\bin\Debug\HeliosTransfert.Business.Dto.pdb
+C:\apps\HeliosIII\HELIOS TRANSFERT Client\HeliosTransfert.Dal\bin\Debug\Global.Business.Dto.pdb
+C:\apps\HeliosIII\HELIOS TRANSFERT Client\HeliosTransfert.Dal\bin\Debug\Ftp.xml
+C:\apps\HeliosIII\HELIOS TRANSFERT Client\HeliosTransfert.Dal\obj\Debug\HeliosTransfert.Dal.dll
+C:\apps\HeliosIII\HELIOS TRANSFERT Client\HeliosTransfert.Dal\obj\Debug\HeliosTransfert.Dal.pdb
+C:\apps\HeliosIII\HELIOS TRANSFERT\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\HeliosTransfert.Dal\bin\Debug\HeliosTransfert.Dal.dll
+C:\apps\HeliosIII\HELIOS TRANSFERT\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\HeliosTransfert.Dal\bin\Debug\HeliosTransfert.Dal.pdb
+C:\apps\HeliosIII\HELIOS TRANSFERT\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\HeliosTransfert.Dal\bin\Debug\Global.Business.Dto.dll
+C:\apps\HeliosIII\HELIOS TRANSFERT\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\HeliosTransfert.Dal\bin\Debug\Global.Oracle.dll
+C:\apps\HeliosIII\HELIOS TRANSFERT\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\HeliosTransfert.Dal\bin\Debug\HeliosTransfert.Business.Dto.dll
+C:\apps\HeliosIII\HELIOS TRANSFERT\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\HeliosTransfert.Dal\bin\Debug\Oracle.DataAccess.dll
+C:\apps\HeliosIII\HELIOS TRANSFERT\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\HeliosTransfert.Dal\bin\Debug\Ftp.dll
+C:\apps\HeliosIII\HELIOS TRANSFERT\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\HeliosTransfert.Dal\bin\Debug\Global.Business.Dto.pdb
+C:\apps\HeliosIII\HELIOS TRANSFERT\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\HeliosTransfert.Dal\bin\Debug\Global.Oracle.pdb
+C:\apps\HeliosIII\HELIOS TRANSFERT\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\HeliosTransfert.Dal\bin\Debug\HeliosTransfert.Business.Dto.pdb
+C:\apps\HeliosIII\HELIOS TRANSFERT\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\HeliosTransfert.Dal\obj\Debug\HeliosTransfert.Dal.csprojResolveAssemblyReference.cache
+C:\apps\HeliosIII\HELIOS TRANSFERT\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\HeliosTransfert.Dal\obj\Debug\HeliosTransfert.Dal.dll
+C:\apps\HeliosIII\HELIOS TRANSFERT\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\HeliosTransfert.Dal\obj\Debug\HeliosTransfert.Dal.pdb
+C:\Users\ma.lasarte\Documents\Partage_VM\Client\HELIOS TRANSFERT Serveur\HeliosTransfert.Dal\bin\Debug\HeliosTransfert.Dal.dll
+C:\Users\ma.lasarte\Documents\Partage_VM\Client\HELIOS TRANSFERT Serveur\HeliosTransfert.Dal\bin\Debug\HeliosTransfert.Dal.pdb
+C:\Users\ma.lasarte\Documents\Partage_VM\Client\HELIOS TRANSFERT Serveur\HeliosTransfert.Dal\bin\Debug\Global.Business.Dto.dll
+C:\Users\ma.lasarte\Documents\Partage_VM\Client\HELIOS TRANSFERT Serveur\HeliosTransfert.Dal\bin\Debug\Global.Oracle.dll
+C:\Users\ma.lasarte\Documents\Partage_VM\Client\HELIOS TRANSFERT Serveur\HeliosTransfert.Dal\bin\Debug\HeliosTransfert.Business.Dto.dll
+C:\Users\ma.lasarte\Documents\Partage_VM\Client\HELIOS TRANSFERT Serveur\HeliosTransfert.Dal\bin\Debug\Oracle.DataAccess.dll
+C:\Users\ma.lasarte\Documents\Partage_VM\Client\HELIOS TRANSFERT Serveur\HeliosTransfert.Dal\bin\Debug\FluentFTP.dll
+C:\Users\ma.lasarte\Documents\Partage_VM\Client\HELIOS TRANSFERT Serveur\HeliosTransfert.Dal\bin\Debug\Global.Business.Dto.pdb
+C:\Users\ma.lasarte\Documents\Partage_VM\Client\HELIOS TRANSFERT Serveur\HeliosTransfert.Dal\bin\Debug\Global.Oracle.pdb
+C:\Users\ma.lasarte\Documents\Partage_VM\Client\HELIOS TRANSFERT Serveur\HeliosTransfert.Dal\bin\Debug\HeliosTransfert.Business.Dto.pdb
+C:\Users\ma.lasarte\Documents\Partage_VM\Client\HELIOS TRANSFERT Serveur\HeliosTransfert.Dal\bin\Debug\FluentFTP.xml
+C:\Users\ma.lasarte\Documents\Partage_VM\Client\HELIOS TRANSFERT Serveur\HeliosTransfert.Dal\obj\Debug\HeliosTransfert.Dal.csprojResolveAssemblyReference.cache
+C:\Users\ma.lasarte\Documents\Partage_VM\Client\HELIOS TRANSFERT Serveur\HeliosTransfert.Dal\obj\Debug\HeliosTransfert.Dal.dll
+C:\Users\ma.lasarte\Documents\Partage_VM\Client\HELIOS TRANSFERT Serveur\HeliosTransfert.Dal\obj\Debug\HeliosTransfert.Dal.pdb
+E:\Client\HELIOS TRANSFERT Serveur\HeliosTransfert.Dal\bin\Debug\HeliosTransfert.Dal.dll
+E:\Client\HELIOS TRANSFERT Serveur\HeliosTransfert.Dal\bin\Debug\HeliosTransfert.Dal.pdb
+E:\Client\HELIOS TRANSFERT Serveur\HeliosTransfert.Dal\bin\Debug\Global.Business.Dto.dll
+E:\Client\HELIOS TRANSFERT Serveur\HeliosTransfert.Dal\bin\Debug\Global.Oracle.dll
+E:\Client\HELIOS TRANSFERT Serveur\HeliosTransfert.Dal\bin\Debug\HeliosTransfert.Business.Dto.dll
+E:\Client\HELIOS TRANSFERT Serveur\HeliosTransfert.Dal\bin\Debug\Oracle.DataAccess.dll
+E:\Client\HELIOS TRANSFERT Serveur\HeliosTransfert.Dal\bin\Debug\FluentFTP.dll
+E:\Client\HELIOS TRANSFERT Serveur\HeliosTransfert.Dal\bin\Debug\Global.Business.Dto.pdb
+E:\Client\HELIOS TRANSFERT Serveur\HeliosTransfert.Dal\bin\Debug\Global.Oracle.pdb
+E:\Client\HELIOS TRANSFERT Serveur\HeliosTransfert.Dal\bin\Debug\HeliosTransfert.Business.Dto.pdb
+E:\Client\HELIOS TRANSFERT Serveur\HeliosTransfert.Dal\bin\Debug\FluentFTP.xml
+E:\Client\HELIOS TRANSFERT Serveur\HeliosTransfert.Dal\obj\Debug\HeliosTransfert.Dal.csprojResolveAssemblyReference.cache
+E:\Client\HELIOS TRANSFERT Serveur\HeliosTransfert.Dal\obj\Debug\HeliosTransfert.Dal.csproj.CoreCompileInputs.cache
+E:\Client\HELIOS TRANSFERT Serveur\HeliosTransfert.Dal\obj\Debug\HeliosTransfert.Dal.dll
+E:\Client\HELIOS TRANSFERT Serveur\HeliosTransfert.Dal\obj\Debug\HeliosTransfert.Dal.pdb
+U:\Stagiaires\Stage\Marc-Antoine Lasarte\Projet\Super Cube - Consolidation des données BO-BI\HELIOS Transfert\Développement\HELIOS TRANSFERT Serveur\HeliosTransfert.Dal\bin\Debug\HeliosTransfert.Dal.dll
+U:\Stagiaires\Stage\Marc-Antoine Lasarte\Projet\Super Cube - Consolidation des données BO-BI\HELIOS Transfert\Développement\HELIOS TRANSFERT Serveur\HeliosTransfert.Dal\bin\Debug\HeliosTransfert.Dal.pdb
+U:\Stagiaires\Stage\Marc-Antoine Lasarte\Projet\Super Cube - Consolidation des données BO-BI\HELIOS Transfert\Développement\HELIOS TRANSFERT Serveur\HeliosTransfert.Dal\bin\Debug\Global.Business.Dto.dll
+U:\Stagiaires\Stage\Marc-Antoine Lasarte\Projet\Super Cube - Consolidation des données BO-BI\HELIOS Transfert\Développement\HELIOS TRANSFERT Serveur\HeliosTransfert.Dal\bin\Debug\Global.Oracle.dll
+U:\Stagiaires\Stage\Marc-Antoine Lasarte\Projet\Super Cube - Consolidation des données BO-BI\HELIOS Transfert\Développement\HELIOS TRANSFERT Serveur\HeliosTransfert.Dal\bin\Debug\HeliosTransfert.Business.Dto.dll
+U:\Stagiaires\Stage\Marc-Antoine Lasarte\Projet\Super Cube - Consolidation des données BO-BI\HELIOS Transfert\Développement\HELIOS TRANSFERT Serveur\HeliosTransfert.Dal\bin\Debug\Oracle.DataAccess.dll
+U:\Stagiaires\Stage\Marc-Antoine Lasarte\Projet\Super Cube - Consolidation des données BO-BI\HELIOS Transfert\Développement\HELIOS TRANSFERT Serveur\HeliosTransfert.Dal\bin\Debug\FluentFTP.dll
+U:\Stagiaires\Stage\Marc-Antoine Lasarte\Projet\Super Cube - Consolidation des données BO-BI\HELIOS Transfert\Développement\HELIOS TRANSFERT Serveur\HeliosTransfert.Dal\bin\Debug\Global.Business.Dto.pdb
+U:\Stagiaires\Stage\Marc-Antoine Lasarte\Projet\Super Cube - Consolidation des données BO-BI\HELIOS Transfert\Développement\HELIOS TRANSFERT Serveur\HeliosTransfert.Dal\bin\Debug\Global.Oracle.pdb
+U:\Stagiaires\Stage\Marc-Antoine Lasarte\Projet\Super Cube - Consolidation des données BO-BI\HELIOS Transfert\Développement\HELIOS TRANSFERT Serveur\HeliosTransfert.Dal\bin\Debug\HeliosTransfert.Business.Dto.pdb
+U:\Stagiaires\Stage\Marc-Antoine Lasarte\Projet\Super Cube - Consolidation des données BO-BI\HELIOS Transfert\Développement\HELIOS TRANSFERT Serveur\HeliosTransfert.Dal\bin\Debug\FluentFTP.xml
+U:\Stagiaires\Stage\Marc-Antoine Lasarte\Projet\Super Cube - Consolidation des données BO-BI\HELIOS Transfert\Développement\HELIOS TRANSFERT Serveur\HeliosTransfert.Dal\obj\Debug\HeliosTransfert.Dal.csprojResolveAssemblyReference.cache
+U:\Stagiaires\Stage\Marc-Antoine Lasarte\Projet\Super Cube - Consolidation des données BO-BI\HELIOS Transfert\Développement\HELIOS TRANSFERT Serveur\HeliosTransfert.Dal\obj\Debug\HeliosTransfert.Dal.csproj.CoreCompileInputs.cache
+U:\Stagiaires\Stage\Marc-Antoine Lasarte\Projet\Super Cube - Consolidation des données BO-BI\HELIOS Transfert\Développement\HELIOS TRANSFERT Serveur\HeliosTransfert.Dal\obj\Debug\HeliosTransfert.Dal.csproj.CopyComplete
+U:\Stagiaires\Stage\Marc-Antoine Lasarte\Projet\Super Cube - Consolidation des données BO-BI\HELIOS Transfert\Développement\HELIOS TRANSFERT Serveur\HeliosTransfert.Dal\obj\Debug\HeliosTransfert.Dal.dll
+U:\Stagiaires\Stage\Marc-Antoine Lasarte\Projet\Super Cube - Consolidation des données BO-BI\HELIOS Transfert\Développement\HELIOS TRANSFERT Serveur\HeliosTransfert.Dal\obj\Debug\HeliosTransfert.Dal.pdb
+C:\Users\ma.lasarte\Documents\Partage_VM\Client\HELIOS TRANSFERT Serveur\HeliosTransfert.Dal\obj\Debug\HeliosTransfert.Dal.csproj.CoreCompileInputs.cache
+C:\Users\ma.lasarte\Documents\Partage_VM\Client\HELIOS TRANSFERT Serveur\HeliosTransfert.Dal\obj\Debug\HeliosTransfert.Dal.csproj.CopyComplete

@@ -1,0 +1,17 @@
+C:\apps\HeliosIII\HELIOS TRANSFERT Client\HeliosTransfert.Business.Dto\bin\x64\Debug\HeliosTransfert.Business.Dto.dll
+C:\apps\HeliosIII\HELIOS TRANSFERT Client\HeliosTransfert.Business.Dto\bin\x64\Debug\HeliosTransfert.Business.Dto.pdb
+C:\apps\HeliosIII\HELIOS TRANSFERT Client\HeliosTransfert.Business.Dto\bin\x64\Debug\Ftp.dll
+C:\apps\HeliosIII\HELIOS TRANSFERT Client\HeliosTransfert.Business.Dto\bin\x64\Debug\Global.Business.Dto.dll
+C:\apps\HeliosIII\HELIOS TRANSFERT Client\HeliosTransfert.Business.Dto\bin\x64\Debug\Global.Business.Dto.pdb
+C:\apps\HeliosIII\HELIOS TRANSFERT Client\HeliosTransfert.Business.Dto\bin\x64\Debug\Ftp.xml
+C:\apps\HeliosIII\HELIOS TRANSFERT Client\HeliosTransfert.Business.Dto\obj\x64\Debug\HeliosTransfert.Business.Dto.csprojResolveAssemblyReference.cache
+C:\apps\HeliosIII\HELIOS TRANSFERT Client\HeliosTransfert.Business.Dto\obj\x64\Debug\HeliosTransfert.Business.Dto.dll
+C:\apps\HeliosIII\HELIOS TRANSFERT Client\HeliosTransfert.Business.Dto\obj\x64\Debug\HeliosTransfert.Business.Dto.pdb
+C:\apps\HeliosIII\HELIOS TRANSFERT\HELIOS TRANSFERT Client\HeliosTransfert.Business.Dto\bin\x64\Debug\HeliosTransfert.Business.Dto.dll
+C:\apps\HeliosIII\HELIOS TRANSFERT\HELIOS TRANSFERT Client\HeliosTransfert.Business.Dto\bin\x64\Debug\HeliosTransfert.Business.Dto.pdb
+C:\apps\HeliosIII\HELIOS TRANSFERT\HELIOS TRANSFERT Client\HeliosTransfert.Business.Dto\bin\x64\Debug\Global.Business.Dto.dll
+C:\apps\HeliosIII\HELIOS TRANSFERT\HELIOS TRANSFERT Client\HeliosTransfert.Business.Dto\bin\x64\Debug\Global.Business.Dto.pdb
+C:\apps\HeliosIII\HELIOS TRANSFERT\HELIOS TRANSFERT Client\HeliosTransfert.Business.Dto\bin\x64\Debug\Ftp.xml
+C:\apps\HeliosIII\HELIOS TRANSFERT\HELIOS TRANSFERT Client\HeliosTransfert.Business.Dto\obj\x64\Debug\HeliosTransfert.Business.Dto.csprojResolveAssemblyReference.cache
+C:\apps\HeliosIII\HELIOS TRANSFERT\HELIOS TRANSFERT Client\HeliosTransfert.Business.Dto\obj\x64\Debug\HeliosTransfert.Business.Dto.dll
+C:\apps\HeliosIII\HELIOS TRANSFERT\HELIOS TRANSFERT Client\HeliosTransfert.Business.Dto\obj\x64\Debug\HeliosTransfert.Business.Dto.pdb

@@ -1,0 +1,15 @@
+C:\apps\HeliosIII\HELIOS TRANSFERT Client\Global\Global.Business.Dto\bin\x64\Debug\Global.Business.Dto.dll
+C:\apps\HeliosIII\HELIOS TRANSFERT Client\Global\Global.Business.Dto\bin\x64\Debug\Global.Business.Dto.pdb
+C:\apps\HeliosIII\HELIOS TRANSFERT Client\Global\Global.Business.Dto\obj\x64\Debug\Global.Business.Dto.csprojResolveAssemblyReference.cache
+C:\apps\HeliosIII\HELIOS TRANSFERT Client\Global\Global.Business.Dto\obj\x64\Debug\Global.Business.Dto.dll
+C:\apps\HeliosIII\HELIOS TRANSFERT Client\Global\Global.Business.Dto\obj\x64\Debug\Global.Business.Dto.pdb
+C:\apps\HeliosIII\HELIOS TRANSFERT\HELIOS TRANSFERT Client\Global\Global.Business.Dto\bin\x64\Debug\Global.Business.Dto.dll
+C:\apps\HeliosIII\HELIOS TRANSFERT\HELIOS TRANSFERT Client\Global\Global.Business.Dto\bin\x64\Debug\Global.Business.Dto.pdb
+C:\apps\HeliosIII\HELIOS TRANSFERT\HELIOS TRANSFERT Client\Global\Global.Business.Dto\obj\x64\Debug\Global.Business.Dto.csprojResolveAssemblyReference.cache
+C:\apps\HeliosIII\HELIOS TRANSFERT\HELIOS TRANSFERT Client\Global\Global.Business.Dto\obj\x64\Debug\Global.Business.Dto.dll
+C:\apps\HeliosIII\HELIOS TRANSFERT\HELIOS TRANSFERT Client\Global\Global.Business.Dto\obj\x64\Debug\Global.Business.Dto.pdb
+C:\apps\HeliosIII\HELIOS TRANSFERT\HELIOS TRANSFERT Serveur\Global\Global.Business.Dto\bin\x64\Debug\Global.Business.Dto.dll
+C:\apps\HeliosIII\HELIOS TRANSFERT\HELIOS TRANSFERT Serveur\Global\Global.Business.Dto\bin\x64\Debug\Global.Business.Dto.pdb
+C:\apps\HeliosIII\HELIOS TRANSFERT\HELIOS TRANSFERT Serveur\Global\Global.Business.Dto\obj\x64\Debug\Global.Business.Dto.csprojResolveAssemblyReference.cache
+C:\apps\HeliosIII\HELIOS TRANSFERT\HELIOS TRANSFERT Serveur\Global\Global.Business.Dto\obj\x64\Debug\Global.Business.Dto.dll
+C:\apps\HeliosIII\HELIOS TRANSFERT\HELIOS TRANSFERT Serveur\Global\Global.Business.Dto\obj\x64\Debug\Global.Business.Dto.pdb
