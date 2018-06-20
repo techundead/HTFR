@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Configuration;
 using HeliosTransfert.Services;
+using HeliosTransfert.Business.Dto;
 using System.Threading;
 
 namespace HELIOS_TRANSFERT_Serveur
@@ -22,6 +23,9 @@ namespace HELIOS_TRANSFERT_Serveur
 
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
+
+            //Création du fichier de log
+            Log.CreerFichierLog();
 
 
             //Mode CMD - Lancer les transferts avec le commande [START HELIOSTRANSFERT.EXE -t]

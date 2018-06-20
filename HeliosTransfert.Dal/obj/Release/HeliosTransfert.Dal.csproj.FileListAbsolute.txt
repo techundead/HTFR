@@ -1,0 +1,14 @@
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HeliosTransfert.Dal\bin\Release\HeliosTransfert.Dal.dll
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HeliosTransfert.Dal\bin\Release\HeliosTransfert.Dal.pdb
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HeliosTransfert.Dal\bin\Release\Global.Business.Dto.dll
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HeliosTransfert.Dal\bin\Release\Global.Oracle.dll
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HeliosTransfert.Dal\bin\Release\HeliosTransfert.Business.Dto.dll
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HeliosTransfert.Dal\bin\Release\Oracle.DataAccess.dll
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HeliosTransfert.Dal\bin\Release\FluentFTP.dll
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HeliosTransfert.Dal\bin\Release\HeliosTransfert.Business.Dto.pdb
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HeliosTransfert.Dal\bin\Release\FluentFTP.xml
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HeliosTransfert.Dal\obj\Release\HeliosTransfert.Dal.csprojResolveAssemblyReference.cache
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HeliosTransfert.Dal\obj\Release\HeliosTransfert.Dal.csproj.CoreCompileInputs.cache
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HeliosTransfert.Dal\obj\Release\HeliosTransfert.Dal.csproj.CopyComplete
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HeliosTransfert.Dal\obj\Release\HeliosTransfert.Dal.dll
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HeliosTransfert.Dal\obj\Release\HeliosTransfert.Dal.pdb

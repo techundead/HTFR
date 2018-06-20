@@ -71,3 +71,19 @@ U:\Stagiaires\Stage\Marc-Antoine Lasarte\Projet\Super Cube - Consolidation des d
 U:\Stagiaires\Stage\Marc-Antoine Lasarte\Projet\Super Cube - Consolidation des données BO-BI\HELIOS Transfert\Développement\HELIOS TRANSFERT Serveur\HeliosTransfert.Dal\obj\Debug\HeliosTransfert.Dal.pdb
 C:\Users\ma.lasarte\Documents\Partage_VM\Client\HELIOS TRANSFERT Serveur\HeliosTransfert.Dal\obj\Debug\HeliosTransfert.Dal.csproj.CoreCompileInputs.cache
 C:\Users\ma.lasarte\Documents\Partage_VM\Client\HELIOS TRANSFERT Serveur\HeliosTransfert.Dal\obj\Debug\HeliosTransfert.Dal.csproj.CopyComplete
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HeliosTransfert.Dal\bin\Debug\HeliosTransfert.Dal.dll
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HeliosTransfert.Dal\bin\Debug\HeliosTransfert.Dal.pdb
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HeliosTransfert.Dal\bin\Debug\Global.Business.Dto.dll
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HeliosTransfert.Dal\bin\Debug\Global.Oracle.dll
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HeliosTransfert.Dal\bin\Debug\HeliosTransfert.Business.Dto.dll
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HeliosTransfert.Dal\bin\Debug\Oracle.DataAccess.dll
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HeliosTransfert.Dal\bin\Debug\FluentFTP.dll
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HeliosTransfert.Dal\bin\Debug\Global.Business.Dto.pdb
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HeliosTransfert.Dal\bin\Debug\Global.Oracle.pdb
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HeliosTransfert.Dal\bin\Debug\HeliosTransfert.Business.Dto.pdb
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HeliosTransfert.Dal\bin\Debug\FluentFTP.xml
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HeliosTransfert.Dal\obj\Debug\HeliosTransfert.Dal.csprojResolveAssemblyReference.cache
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HeliosTransfert.Dal\obj\Debug\HeliosTransfert.Dal.csproj.CoreCompileInputs.cache
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HeliosTransfert.Dal\obj\Debug\HeliosTransfert.Dal.csproj.CopyComplete
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HeliosTransfert.Dal\obj\Debug\HeliosTransfert.Dal.dll
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HeliosTransfert.Dal\obj\Debug\HeliosTransfert.Dal.pdb

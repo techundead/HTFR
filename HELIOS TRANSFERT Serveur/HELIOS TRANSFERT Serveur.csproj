@@ -199,5 +199,6 @@
   <ItemGroup>
     <Content Include="ressources.rc" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

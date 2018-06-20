@@ -5,3 +5,7 @@ C:\apps\DotNet 2017\CynapsV2\Dev\Global\Global.Business.Dto\bin\Release\Global.B
 C:\apps\DotNet 2017\CynapsV2\Dev\Global\Global.Business.Dto\obj\Release\Global.Business.Dto.csprojResolveAssemblyReference.cache
 C:\apps\DotNet 2017\CynapsV2\Dev\Global\Global.Business.Dto\obj\Release\Global.Business.Dto.csproj.CoreCompileInputs.cache
 C:\apps\DotNet 2017\CynapsV2\Dev\Global\Global.Business.Dto\obj\Release\Global.Business.Dto.dll
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\Global\Global.Business.Dto\bin\Release\Global.Business.Dto.dll
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\Global\Global.Business.Dto\obj\Release\Global.Business.Dto.csprojResolveAssemblyReference.cache
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\Global\Global.Business.Dto\obj\Release\Global.Business.Dto.csproj.CoreCompileInputs.cache
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\Global\Global.Business.Dto\obj\Release\Global.Business.Dto.dll

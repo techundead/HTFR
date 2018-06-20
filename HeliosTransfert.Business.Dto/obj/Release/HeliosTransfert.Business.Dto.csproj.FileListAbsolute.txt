@@ -1,0 +1,10 @@
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HeliosTransfert.Business.Dto\bin\Release\HeliosTransfert.Business.Dto.dll
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HeliosTransfert.Business.Dto\bin\Release\HeliosTransfert.Business.Dto.pdb
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HeliosTransfert.Business.Dto\bin\Release\FluentFTP.dll
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HeliosTransfert.Business.Dto\bin\Release\Global.Business.Dto.dll
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HeliosTransfert.Business.Dto\bin\Release\FluentFTP.xml
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HeliosTransfert.Business.Dto\obj\Release\HeliosTransfert.Business.Dto.csprojResolveAssemblyReference.cache
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HeliosTransfert.Business.Dto\obj\Release\HeliosTransfert.Business.Dto.csproj.CoreCompileInputs.cache
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HeliosTransfert.Business.Dto\obj\Release\HeliosTransfert.Business.Dto.csproj.CopyComplete
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HeliosTransfert.Business.Dto\obj\Release\HeliosTransfert.Business.Dto.dll
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HeliosTransfert.Business.Dto\obj\Release\HeliosTransfert.Business.Dto.pdb

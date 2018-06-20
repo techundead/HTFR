@@ -70,6 +70,7 @@
     <Compile Include="Client.cs" />
     <Compile Include="ClientServeur.cs" />
     <Compile Include="Flux.cs" />
+    <Compile Include="Log.cs" />
     <Compile Include="Réseaux\ClientFTP.cs" />
     <Compile Include="Réseaux\ClientTCP.cs" />
     <Compile Include="Réseaux\Connexion.cs" />

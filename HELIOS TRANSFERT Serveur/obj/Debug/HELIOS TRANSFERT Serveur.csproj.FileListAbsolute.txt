@@ -133,3 +133,38 @@ U:\Stagiaires\Stage\Marc-Antoine Lasarte\Projet\Super Cube - Consolidation des d
 U:\Stagiaires\Stage\Marc-Antoine Lasarte\Projet\Super Cube - Consolidation des données BO-BI\HELIOS Transfert\Développement\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\obj\Debug\HELIOSTRANSFERT.pdb
 C:\Users\ma.lasarte\Documents\Partage_VM\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\obj\Debug\HELIOS TRANSFERT Serveur.csproj.CoreCompileInputs.cache
 C:\Users\ma.lasarte\Documents\Partage_VM\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\obj\Debug\HELIOS TRANSFERT Serveur.csproj.CopyComplete
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HELIOS TRANSFERT Serveur\bin\Debug\Base.config
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HELIOS TRANSFERT Serveur\bin\Debug\HELIOSTRANSFERT.exe.config
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HELIOS TRANSFERT Serveur\bin\Debug\HELIOSTRANSFERT.exe
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HELIOS TRANSFERT Serveur\bin\Debug\HELIOSTRANSFERT.pdb
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HELIOS TRANSFERT Serveur\bin\Debug\HeliosTransfert.Business.Dto.dll
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HELIOS TRANSFERT Serveur\bin\Debug\HeliosTransfert.Services.dll
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HELIOS TRANSFERT Serveur\bin\Debug\Global.Business.Dto.dll
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HELIOS TRANSFERT Serveur\bin\Debug\FluentFTP.dll
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HELIOS TRANSFERT Serveur\bin\Debug\HeliosTransfert.Business.dll
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HELIOS TRANSFERT Serveur\bin\Debug\HeliosTransfert.Dal.dll
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HELIOS TRANSFERT Serveur\bin\Debug\Global.Oracle.dll
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HELIOS TRANSFERT Serveur\bin\Debug\Oracle.DataAccess.dll
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HELIOS TRANSFERT Serveur\bin\Debug\HeliosTransfert.Business.Dto.pdb
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HELIOS TRANSFERT Serveur\bin\Debug\HeliosTransfert.Services.pdb
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HELIOS TRANSFERT Serveur\bin\Debug\Global.Business.Dto.pdb
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HELIOS TRANSFERT Serveur\bin\Debug\FluentFTP.xml
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HELIOS TRANSFERT Serveur\bin\Debug\HeliosTransfert.Business.pdb
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HELIOS TRANSFERT Serveur\bin\Debug\HeliosTransfert.Dal.pdb
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HELIOS TRANSFERT Serveur\bin\Debug\Global.Oracle.pdb
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HELIOS TRANSFERT Serveur\obj\Debug\HELIOS TRANSFERT Serveur.csprojResolveAssemblyReference.cache
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HELIOS TRANSFERT Serveur\obj\Debug\HELIOS_TRANSFERT_Serveur.HeliosTransfertClient.resources
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HELIOS TRANSFERT Serveur\obj\Debug\HELIOS_TRANSFERT_Serveur.Client.WinFlux.resources
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HELIOS TRANSFERT Serveur\obj\Debug\HELIOS_TRANSFERT_Serveur.Client.WinLstFluxServeurs.resources
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HELIOS TRANSFERT Serveur\obj\Debug\HELIOS_TRANSFERT_Serveur.Client.WinServeur.resources
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HELIOS TRANSFERT Serveur\obj\Debug\HELIOS_TRANSFERT_Serveur.Serveur.WinClient.resources
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HELIOS TRANSFERT Serveur\obj\Debug\HELIOS_TRANSFERT_Serveur.HeliosTransfertServeur.resources
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HELIOS TRANSFERT Serveur\obj\Debug\HELIOS_TRANSFERT_Serveur.Properties.Resources.resources
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HELIOS TRANSFERT Serveur\obj\Debug\HELIOS_TRANSFERT_Serveur.Serveur.WinFluxServeur.resources
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HELIOS TRANSFERT Serveur\obj\Debug\HELIOS_TRANSFERT_Serveur.Serveur.WinParametreServeur.resources
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HELIOS TRANSFERT Serveur\obj\Debug\HELIOS_TRANSFERT_Serveur.WinParametrage.resources
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HELIOS TRANSFERT Serveur\obj\Debug\HELIOS TRANSFERT Serveur.csproj.GenerateResource.cache
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HELIOS TRANSFERT Serveur\obj\Debug\HELIOS TRANSFERT Serveur.csproj.CoreCompileInputs.cache
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HELIOS TRANSFERT Serveur\obj\Debug\HELIOS TRANSFERT Serveur.csproj.CopyComplete
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HELIOS TRANSFERT Serveur\obj\Debug\HELIOSTRANSFERT.exe
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HELIOS TRANSFERT Serveur\obj\Debug\HELIOSTRANSFERT.pdb

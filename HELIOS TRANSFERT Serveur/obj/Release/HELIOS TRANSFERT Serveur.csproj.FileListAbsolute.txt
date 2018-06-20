@@ -1,0 +1,65 @@
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HELIOS TRANSFERT Serveur\bin\Release\Base.config
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HELIOS TRANSFERT Serveur\bin\Release\HELIOSTRANSFERT.exe.config
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HELIOS TRANSFERT Serveur\bin\Release\HELIOSTRANSFERT.exe
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HELIOS TRANSFERT Serveur\bin\Release\HELIOSTRANSFERT.pdb
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HELIOS TRANSFERT Serveur\bin\Release\HeliosTransfert.Business.Dto.dll
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HELIOS TRANSFERT Serveur\bin\Release\HeliosTransfert.Services.dll
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HELIOS TRANSFERT Serveur\bin\Release\Global.Business.Dto.dll
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HELIOS TRANSFERT Serveur\bin\Release\FluentFTP.dll
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HELIOS TRANSFERT Serveur\bin\Release\HeliosTransfert.Business.dll
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HELIOS TRANSFERT Serveur\bin\Release\HeliosTransfert.Dal.dll
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HELIOS TRANSFERT Serveur\bin\Release\Global.Oracle.dll
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HELIOS TRANSFERT Serveur\bin\Release\Oracle.DataAccess.dll
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HELIOS TRANSFERT Serveur\bin\Release\HeliosTransfert.Business.Dto.pdb
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HELIOS TRANSFERT Serveur\bin\Release\HeliosTransfert.Services.pdb
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HELIOS TRANSFERT Serveur\bin\Release\FluentFTP.xml
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HELIOS TRANSFERT Serveur\bin\Release\HeliosTransfert.Business.pdb
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HELIOS TRANSFERT Serveur\bin\Release\HeliosTransfert.Dal.pdb
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HELIOS TRANSFERT Serveur\obj\Release\HELIOS TRANSFERT Serveur.csprojResolveAssemblyReference.cache
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HELIOS TRANSFERT Serveur\obj\Release\HELIOS_TRANSFERT_Serveur.HeliosTransfertClient.resources
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HELIOS TRANSFERT Serveur\obj\Release\HELIOS_TRANSFERT_Serveur.Client.WinFlux.resources
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HELIOS TRANSFERT Serveur\obj\Release\HELIOS_TRANSFERT_Serveur.Client.WinLstFluxServeurs.resources
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HELIOS TRANSFERT Serveur\obj\Release\HELIOS_TRANSFERT_Serveur.Client.WinServeur.resources
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HELIOS TRANSFERT Serveur\obj\Release\HELIOS_TRANSFERT_Serveur.Serveur.WinClient.resources
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HELIOS TRANSFERT Serveur\obj\Release\HELIOS_TRANSFERT_Serveur.HeliosTransfertServeur.resources
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HELIOS TRANSFERT Serveur\obj\Release\HELIOS_TRANSFERT_Serveur.Properties.Resources.resources
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HELIOS TRANSFERT Serveur\obj\Release\HELIOS_TRANSFERT_Serveur.Serveur.WinFluxServeur.resources
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HELIOS TRANSFERT Serveur\obj\Release\HELIOS_TRANSFERT_Serveur.Serveur.WinParametreServeur.resources
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HELIOS TRANSFERT Serveur\obj\Release\HELIOS_TRANSFERT_Serveur.WinParametrage.resources
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HELIOS TRANSFERT Serveur\obj\Release\HELIOS TRANSFERT Serveur.csproj.GenerateResource.cache
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HELIOS TRANSFERT Serveur\obj\Release\HELIOS TRANSFERT Serveur.csproj.CoreCompileInputs.cache
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HELIOS TRANSFERT Serveur\obj\Release\HELIOS TRANSFERT Serveur.csproj.CopyComplete
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HELIOS TRANSFERT Serveur\obj\Release\HELIOSTRANSFERT.exe
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HELIOS TRANSFERT Serveur\obj\Release\HELIOSTRANSFERT.pdb
+E:\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Release\Base.config
+E:\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Release\HELIOSTRANSFERT.exe.config
+E:\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Release\HELIOSTRANSFERT.exe
+E:\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Release\HELIOSTRANSFERT.pdb
+E:\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Release\HeliosTransfert.Business.Dto.dll
+E:\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Release\HeliosTransfert.Services.dll
+E:\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Release\Global.Business.Dto.dll
+E:\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Release\FluentFTP.dll
+E:\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Release\HeliosTransfert.Business.dll
+E:\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Release\HeliosTransfert.Dal.dll
+E:\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Release\Global.Oracle.dll
+E:\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Release\Oracle.DataAccess.dll
+E:\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Release\HeliosTransfert.Business.Dto.pdb
+E:\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Release\HeliosTransfert.Services.pdb
+E:\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Release\FluentFTP.xml
+E:\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Release\HeliosTransfert.Business.pdb
+E:\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\bin\Release\HeliosTransfert.Dal.pdb
+E:\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\obj\Release\HELIOS TRANSFERT Serveur.csprojResolveAssemblyReference.cache
+E:\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\obj\Release\HELIOS_TRANSFERT_Serveur.HeliosTransfertClient.resources
+E:\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\obj\Release\HELIOS_TRANSFERT_Serveur.Client.WinFlux.resources
+E:\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\obj\Release\HELIOS_TRANSFERT_Serveur.Client.WinLstFluxServeurs.resources
+E:\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\obj\Release\HELIOS_TRANSFERT_Serveur.Client.WinServeur.resources
+E:\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\obj\Release\HELIOS_TRANSFERT_Serveur.Serveur.WinClient.resources
+E:\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\obj\Release\HELIOS_TRANSFERT_Serveur.HeliosTransfertServeur.resources
+E:\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\obj\Release\HELIOS_TRANSFERT_Serveur.Properties.Resources.resources
+E:\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\obj\Release\HELIOS_TRANSFERT_Serveur.Serveur.WinFluxServeur.resources
+E:\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\obj\Release\HELIOS_TRANSFERT_Serveur.Serveur.WinParametreServeur.resources
+E:\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\obj\Release\HELIOS_TRANSFERT_Serveur.WinParametrage.resources
+E:\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\obj\Release\HELIOS TRANSFERT Serveur.csproj.GenerateResource.Cache
+E:\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\obj\Release\HELIOS TRANSFERT Serveur.csproj.CoreCompileInputs.cache
+E:\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\obj\Release\HELIOSTRANSFERT.exe
+E:\Client\HELIOS TRANSFERT Serveur\HELIOS TRANSFERT Serveur\obj\Release\HELIOSTRANSFERT.pdb

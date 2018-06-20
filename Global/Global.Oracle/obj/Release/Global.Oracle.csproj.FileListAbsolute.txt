@@ -8,3 +8,10 @@ C:\apps\DotNet 2017\CynapsV2\Dev\Global\Global.Oracle\bin\Release\Global.Busines
 C:\apps\DotNet 2017\CynapsV2\Dev\Global\Global.Oracle\obj\Release\Global.Oracle.csprojResolveAssemblyReference.cache
 C:\apps\DotNet 2017\CynapsV2\Dev\Global\Global.Oracle\obj\Release\Global.Oracle.csproj.CoreCompileInputs.cache
 C:\apps\DotNet 2017\CynapsV2\Dev\Global\Global.Oracle\obj\Release\Global.Oracle.dll
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\Global\Global.Oracle\bin\Release\Global.Oracle.dll
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\Global\Global.Oracle\bin\Release\Global.Business.Dto.dll
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\Global\Global.Oracle\bin\Release\Oracle.DataAccess.dll
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\Global\Global.Oracle\obj\Release\Global.Oracle.csprojResolveAssemblyReference.cache
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\Global\Global.Oracle\obj\Release\Global.Oracle.csproj.CoreCompileInputs.cache
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\Global\Global.Oracle\obj\Release\Global.Oracle.csproj.CopyComplete
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\Global\Global.Oracle\obj\Release\Global.Oracle.dll

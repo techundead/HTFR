@@ -46,3 +46,14 @@ U:\Stagiaires\Stage\Marc-Antoine Lasarte\Projet\Super Cube - Consolidation des d
 U:\Stagiaires\Stage\Marc-Antoine Lasarte\Projet\Super Cube - Consolidation des données BO-BI\HELIOS Transfert\Développement\HELIOS TRANSFERT Serveur\HeliosTransfert.Business.Dto\obj\Debug\HeliosTransfert.Business.Dto.pdb
 C:\Users\ma.lasarte\Documents\Partage_VM\Client\HELIOS TRANSFERT Serveur\HeliosTransfert.Business.Dto\obj\Debug\HeliosTransfert.Business.Dto.csproj.CoreCompileInputs.cache
 C:\Users\ma.lasarte\Documents\Partage_VM\Client\HELIOS TRANSFERT Serveur\HeliosTransfert.Business.Dto\obj\Debug\HeliosTransfert.Business.Dto.csproj.CopyComplete
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HeliosTransfert.Business.Dto\bin\Debug\HeliosTransfert.Business.Dto.dll
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HeliosTransfert.Business.Dto\bin\Debug\HeliosTransfert.Business.Dto.pdb
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HeliosTransfert.Business.Dto\bin\Debug\FluentFTP.dll
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HeliosTransfert.Business.Dto\bin\Debug\Global.Business.Dto.dll
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HeliosTransfert.Business.Dto\bin\Debug\Global.Business.Dto.pdb
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HeliosTransfert.Business.Dto\bin\Debug\FluentFTP.xml
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HeliosTransfert.Business.Dto\obj\Debug\HeliosTransfert.Business.Dto.csprojResolveAssemblyReference.cache
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HeliosTransfert.Business.Dto\obj\Debug\HeliosTransfert.Business.Dto.csproj.CoreCompileInputs.cache
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HeliosTransfert.Business.Dto\obj\Debug\HeliosTransfert.Business.Dto.csproj.CopyComplete
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HeliosTransfert.Business.Dto\obj\Debug\HeliosTransfert.Business.Dto.dll
+C:\Users\ma.lasarte\Documents\GitHub\HTFR\HeliosTransfert.Business.Dto\obj\Debug\HeliosTransfert.Business.Dto.pdb
