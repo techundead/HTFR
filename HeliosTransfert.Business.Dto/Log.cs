@@ -30,6 +30,7 @@ namespace HeliosTransfert.Business.Dto
         {
             DateTime dateJour = DateTime.Today;
             File.AppendAllText(Application.StartupPath + "\\log\\" + dateJour.ToString("D") + ".txt", DateTime.Now.ToString() + ": " + message + Environment.NewLine);
+           
         }
 
     }

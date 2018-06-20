@@ -43,6 +43,7 @@ namespace HeliosTransfert.Business
 
         private void DemarrerServeur(TcpListener listener)
         {
+            Log.EcrirLog("Lancement du serveur");
 
             while (!etatServeur)
             {
@@ -91,9 +92,9 @@ namespace HeliosTransfert.Business
                   //  ConnexionManager.Instance.DelConnexion(co);
 
                 }
-                catch (Exception e)
+                catch (Exception ex)
                 {
-                    
+                    Log.EcrirLog(ex.Message);
                 }
             }
 
@@ -109,6 +110,8 @@ namespace HeliosTransfert.Business
             etatServeur = true;
 
             ConnexionManager.Instance.ResetConnexion();
+
+            Log.EcrirLog("Arret du serveur");
         }
     }
 }

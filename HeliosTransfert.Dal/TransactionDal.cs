@@ -34,6 +34,31 @@ namespace HeliosTransfert.Dal
             return res;
         }
 
+        //public static void UpdateTransaction(int cdTRST, String detail, String codeErreur, String etat, DateTime date)
+        //{
+
+        //    OracleTrans o = OracleTrans.getInstance;
+
+        //    int transac = o.DebutTransaction();
+
+        //    try
+        //    {
+        //        bool res = o.ExecuterUpdate("UPDATE trft_transaction SET DETAIL = :2, CODE_ERREUR = :3, CODE_POSTAL = :4, VILLE = :5, PAYS = :6 WHERE CD_CLIENT = :1 ", -1, cdClient, raisonSocial, adressePostale, codePostal, ville, pays).ErrCode == 0;
+
+        //        if (res)
+        //            o.Commit(transac);
+        //        else
+        //            o.RollBack(transac);
+        //    }
+        //    catch (Exception ex)
+        //    {
+        //        o.RollBack(transac);
+        //        throw ex;
+        //    }
+
+        //}
+
+
         public static int getCdTransactionmax()
         {
             OracleTrans o = OracleTrans.getInstance;
@@ -81,5 +106,12 @@ namespace HeliosTransfert.Dal
             return o.ExecuterSelect<Transaction>("SELECT CD_TRST, CD_TRFT, DETAIL, CODE_ERREUR, ETAT, DATE_TRANSACTION FROM trft_transaction WHERE cd_trft = :1", -1, cdTRFT).Data;
         }
 
+        public static String getMaxTransactTRFT(int cdTRFT)
+        {
+
+            OracleTrans o = OracleTrans.getInstance;
+            return o.ExecuterSelectScalar("SELECT MAX(cd_trst) FROM trft_transaction WHERE cd_trft = :1", -1, cdTRFT).Result.ToString();
+
+        }
     }
 }

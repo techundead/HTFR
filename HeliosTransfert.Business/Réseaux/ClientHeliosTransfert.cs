@@ -45,6 +45,9 @@ namespace HeliosTransfert.Business
             //Récupération Code Transfert
             int cdTrft = TransfertManager.getCdTransfert(flux.codeFlux, Convert.ToInt32(ServeurManager.getCdClient(flux.codeServeur)), "En cours");
 
+            //Enregistrement Log
+            Log.EcrirLog("DEBUT - Lancement du Transfert N° "+ cdTrft.ToString());
+
             //Connexion au serveur
             etat = tcpClient.connexionStream(ServeurManager.getAdresseIp(flux.codeServeur), Convert.ToInt32(ServeurManager.getTrftPort(flux.codeServeur)));
 
@@ -80,6 +83,9 @@ namespace HeliosTransfert.Business
                             //Terminer le transfert
                             TransfertManager.modifTransfert(cdTrft, "Terminer");
 
+                            //Enregistrement Log
+                            Log.EcrirLog("FIN - Transfert N° " + cdTrft.ToString());
+
                             return;
 
                         }
@@ -87,11 +93,13 @@ namespace HeliosTransfert.Business
                         {
                             //Enregistrement des transaction
                             TransactionManager.ajoutTransaction(cdTrft, "Vérification Intégralité du fichier envoyé", etat, "ERREUR", DateTime.Now);
+                            Log.EcrirLog(cdTrft.ToString() + " - " + etat);
                         }
                     }
                     else
                     {
                         tcpClient.EnvoiErreur(Convert.ToInt32(ServeurManager.getCdClient(flux.codeServeur)), flux.codeFlux, nomFichier, "Erreur FTP");
+                        Log.EcrirLog(cdTrft.ToString() + " - " + etat);
                     }
 
                 }
@@ -99,8 +107,7 @@ namespace HeliosTransfert.Business
                 {
                     //Enregistrement des transaction
                     TransactionManager.ajoutTransaction(cdTrft, "Demande de transfert de fichier", etat, "ERREUR", DateTime.Now);
-
-
+                    Log.EcrirLog(cdTrft.ToString() + " - " + etat);
                 }
 
 
@@ -109,11 +116,15 @@ namespace HeliosTransfert.Business
             {
                 //Enregistrement des transaction
                 TransactionManager.ajoutTransaction(cdTrft, "Connexion Serveur Helios Transfert", "Connexion Impossible", "ERREUR", DateTime.Now);
-    
+                Log.EcrirLog(cdTrft.ToString() + " - " + etat);
+
             }
 
             //Terminer le transfert
             TransfertManager.modifTransfert(cdTrft, "Terminer");
+
+            //Enregistrement Log
+            Log.EcrirLog("FIN - Transfert N° " + cdTrft.ToString());
 
         }
     }

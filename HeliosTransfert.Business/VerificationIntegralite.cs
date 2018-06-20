@@ -1,4 +1,5 @@
-﻿using System;
+﻿using HeliosTransfert.Business.Dto;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -11,6 +12,7 @@ namespace HeliosTransfert.Business
     {
         public static Boolean verificationFichier(int cdServeur, int cdFlux, int cdClient, String designationFichier, String tailleFichier, DateTime date)
         {
+
             //Récupération des info du transfert
             int cdTrft = TransfertManager.getCdTransfert(cdFlux, cdClient, "En cours");
 

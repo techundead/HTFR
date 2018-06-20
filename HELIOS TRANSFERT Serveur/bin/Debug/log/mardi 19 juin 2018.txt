@@ -1,0 +1,20 @@
+19/06/2018 12:04:22: Ouverture de l'application
+19/06/2018 12:04:42: Ouverture de l'application
+19/06/2018 12:07:35: Ouverture de l'application
+19/06/2018 12:07:39: Lancement du Transfert N° 4
+19/06/2018 13:34:18: Ouverture de l'application
+19/06/2018 13:34:50: DEBUT - Lancement du Transfert N° 5
+19/06/2018 13:39:41: DEBUT - Lancement du Transfert N° 6
+19/06/2018 13:44:38: Ouverture de l'application
+19/06/2018 13:44:46: DEBUT - Lancement du Transfert N° 7
+19/06/2018 13:49:44: FIN - Transfert N° 7
+19/06/2018 13:58:42: Ouverture de l'application
+19/06/2018 13:58:48: DEBUT - Lancement du Transfert N° 8
+19/06/2018 14:03:22: FIN - Transfert N° 8
+19/06/2018 14:05:44: DEBUT - Lancement du Transfert N° 9
+19/06/2018 14:58:56: Ouverture de l'application
+19/06/2018 15:13:20: Ouverture de l'application
+19/06/2018 15:14:46: DEBUT - Lancement du Transfert N° 1
+19/06/2018 15:15:15: 1 - Error while uploading the file to the server. See InnerException for more info. - Une opération a été tentée sur un réseau impossible à atteindre 10.231.232.148:21
+19/06/2018 15:15:53: 1 - Error while uploading the file to the server. See InnerException for more info. -Une opération a été tentée sur un réseau impossible à atteindre 10.231.232.148:21
+19/06/2018 15:26:22: FIN - Transfert N° 1

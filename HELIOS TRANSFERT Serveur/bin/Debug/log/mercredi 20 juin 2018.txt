@@ -1,0 +1,7 @@
+20/06/2018 16:42:47: Ouverture de l'application
+20/06/2018 16:51:34: Ouverture de l'application
+20/06/2018 16:51:47: DEBUT - Lancement du Transfert N° 3
+20/06/2018 16:52:22: 3 - Error while uploading the file to the server. See InnerException for more info. - Une opération a été tentée sur un réseau impossible à atteindre 10.231.232.148:21
+20/06/2018 16:53:04: 3 - Error while uploading the file to the server. See InnerException for more info. -Une opération a été tentée sur un réseau impossible à atteindre 10.231.232.148:21
+20/06/2018 16:53:33: 3 - Error while uploading the file to the server. See InnerException for more info. -Une opération a été tentée sur un réseau impossible à atteindre 10.231.232.148:21
+20/06/2018 16:57:06: FIN - Transfert N° 3

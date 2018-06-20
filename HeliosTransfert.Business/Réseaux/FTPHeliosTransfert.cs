@@ -13,6 +13,7 @@ namespace HeliosTransfert.Services
     public class FTPHeliosTransfert
     {
         ClientFTP ClientFtp = new ClientFTP();
+        int tempRelance = 10000;
 
         public  Boolean TransfertFTP(int code_Serveur, int code_Transfert, string chemin, string nomFichier)
         {
@@ -43,6 +44,7 @@ namespace HeliosTransfert.Services
                 {
                     //Enregistrement transaction "Connexion SRF FTP"
                     TransactionManager.ajoutTransaction(code_Transfert, "Connexion au serveur FTP", "Connexion Impossible", "ERREUR", DateTime.Now);
+                    Log.EcrirLog(code_Transfert.ToString() + " - " + result);
                 }
 
             } while (result != "true");
@@ -53,7 +55,6 @@ namespace HeliosTransfert.Services
         private Boolean envoiFichier(int code_Serveur, int code_Transfert, FtpClient clientFTP, String Fichier, String CheminLocal)
         {
             string CheminDistant;
-            bool erreurEnvoi = false;
             bool etat = false;
             CheminLocal = @""+CheminLocal + "\\" + Fichier;
             CheminDistant = @"" + Fichier;
@@ -62,11 +63,10 @@ namespace HeliosTransfert.Services
 
             try
             {
-                
+                               
                 //Lancement de l'envoi
                 clientFTP.UploadFile(CheminLocal, CheminDistant);
-                
-               
+                               
 
                 //Enregistrement transaction "Envoi Fichier"
                 TransactionManager.ajoutTransaction(code_Transfert, "Envoi Fichier"+ Fichier, null, "OK", DateTime.Now);
@@ -78,66 +78,68 @@ namespace HeliosTransfert.Services
             }
             catch (FtpException ex)
             {
+                // Ecris l'erreur en détails dans les logs - Voir Dossier LOG
+                Log.EcrirLog(code_Transfert.ToString() + " - " + ex.Message + " - " + ex.InnerException.Message);
 
-                //activation de la reprise sur erreur
-                erreurEnvoi = true;
-                
                 //Enregistrement transaction "Envoi fichier"
-                TransactionManager.ajoutTransaction(code_Transfert, "Envoi Fichier" + Fichier, ex.Message, "ERREUR", DateTime.Now);
+                TransactionManager.ajoutTransaction(code_Transfert, "Envoi Fichier" + Fichier, "Voir les logs", "ERREUR", DateTime.Now);
 
-                //Enregistrement transaction "Relance envoi"
-                TransactionManager.ajoutTransaction(code_Transfert, "Relance de l'envoi du fichier vers le serveur", null, "En cours", DateTime.Now);
-
-                //Attente pour relance
-                System.Threading.Thread.Sleep(10000);
-
+                //Lancement de la reprise sur erreur
+                etat = relanceEnvoiFichier(code_Serveur, code_Transfert, clientFTP, Fichier, CheminLocal, CheminDistant);
+   
                 //Enregistrement transaction "Connexion SRF FTP"
                 TransactionManager.ajoutTransaction(code_Transfert, "Relance de l'envoi du fichier vers le serveur", null, "OK", DateTime.Now);
 
-                //Lancement de la reprise sur erreur
-                while (erreurEnvoi == true)
+                //Enregistrement transaction "Envoi Fichier"
+                TransactionManager.ajoutTransaction(code_Transfert, "Envoi Fichier" + Fichier, null, "OK", DateTime.Now);
+
+               
+            }
+            return etat;
+        }
+
+
+        //METHODE - REPRISE SUR ERREUR FTP
+        private Boolean relanceEnvoiFichier(int code_Serveur, int code_Transfert, FtpClient clientFTP, String Fichier, String CheminLocal, String CheminDistant)
+        {
+            Boolean etat = false;
+            Boolean erreurEnvoi = false;
+
+            //Enregistrement transaction "Relance envoi"
+            TransactionManager.ajoutTransaction(code_Transfert, "Relance de l'envoi du fichier vers le serveur", null, "En cours", DateTime.Now);
+           
+            do
+            {
+
+                try
                 {
+                    //Attente pour relance
+                    System.Threading.Thread.Sleep(tempRelance);
 
+                    //Relance l'envoi
+                    clientFTP.UploadFile(@CheminLocal, CheminDistant, FtpExists.Append);                 
 
-                    try
-                    {
+                    //Désactivation de la reprise sur erreur
+                    erreurEnvoi = false;
+                    //Valide le transfert
+                    etat = true;
 
-                            //Relance l'envoi
-                            clientFTP.UploadFile(@CheminLocal, CheminDistant, FtpExists.Append);
+                }
+                catch (Exception erreurRelance)
+                {
+                    // Ecris l'erreur en détails dans les logs - Voir dossier LOG
+                    Log.EcrirLog(code_Transfert.ToString() + " - " + erreurRelance.Message + " -" + erreurRelance.InnerException.Message);
 
-                            //Enregistrement transaction "Envoi Fichier"
-                            TransactionManager.ajoutTransaction(code_Transfert, "Envoi Fichier" + Fichier, null, "OK", DateTime.Now);
+                    //Activation de la reprise sur erreur
+                    erreurEnvoi = true;
 
-                            //Désactivation de la reprise sur erreur
-                            erreurEnvoi = false;
-                        //Valide le transfert
-                        etat = true;
-
-
-                    }
-                    catch (Exception erreurRelance)
-                    {
-                        //Activation de la reprise sur erreur
-                        erreurEnvoi = true;
-
-                        //Enregistrement transaction "Envoi fichier"
-                        TransactionManager.ajoutTransaction(code_Transfert, "Envoi Fichier" + Fichier, ex.Message, "ERREUR", DateTime.Now);
-
-                        //Enregistrement transaction "Relance envoi"
-                        TransactionManager.ajoutTransaction(code_Transfert, "Relance de l'envoi du fichier vers le serveur", null, "En cours", DateTime.Now);
-
-                        //Attente pour relance
-                        System.Threading.Thread.Sleep(10000);
-
-                        //Enregistrement transaction "Connexion SRF FTP"
-                        TransactionManager.ajoutTransaction(code_Transfert, "Relance de l'envoi du fichier vers le serveur", null, "OK", DateTime.Now);
-
-                    }
-
+                    //Attente pour relance
+                    System.Threading.Thread.Sleep(tempRelance);
 
                 }
 
-            }
+            } while(erreurEnvoi == true);
+           
             return etat;
         }
 

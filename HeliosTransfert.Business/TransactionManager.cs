@@ -43,5 +43,10 @@ namespace HeliosTransfert.Business
             return TransactionDal.getTransactions(cdTRFT);
         }
 
+        public static String getMaxTransactTRFT(int cdTRFT)
+        {
+            return TransactionDal.getMaxTransactTRFT(cdTRFT);
+        }
+
     }
 }
