@@ -14,3 +14,18 @@ C:\Users\ma.lasarte\Documents\GitHub\HTFR\HeliosTransfert.Business\obj\Release\H
 C:\Users\ma.lasarte\Documents\GitHub\HTFR\HeliosTransfert.Business\obj\Release\HeliosTransfert.Business.csproj.CopyComplete
 C:\Users\ma.lasarte\Documents\GitHub\HTFR\HeliosTransfert.Business\obj\Release\HeliosTransfert.Business.dll
 C:\Users\ma.lasarte\Documents\GitHub\HTFR\HeliosTransfert.Business\obj\Release\HeliosTransfert.Business.pdb
+E:\Client\HELIOS TRANSFERT Serveur\HeliosTransfert.Business\bin\Release\HeliosTransfert.Business.dll
+E:\Client\HELIOS TRANSFERT Serveur\HeliosTransfert.Business\bin\Release\HeliosTransfert.Business.pdb
+E:\Client\HELIOS TRANSFERT Serveur\HeliosTransfert.Business\bin\Release\FluentFTP.dll
+E:\Client\HELIOS TRANSFERT Serveur\HeliosTransfert.Business\bin\Release\HeliosTransfert.Business.Dto.dll
+E:\Client\HELIOS TRANSFERT Serveur\HeliosTransfert.Business\bin\Release\HeliosTransfert.Dal.dll
+E:\Client\HELIOS TRANSFERT Serveur\HeliosTransfert.Business\bin\Release\Global.Business.Dto.dll
+E:\Client\HELIOS TRANSFERT Serveur\HeliosTransfert.Business\bin\Release\Global.Oracle.dll
+E:\Client\HELIOS TRANSFERT Serveur\HeliosTransfert.Business\bin\Release\Oracle.DataAccess.dll
+E:\Client\HELIOS TRANSFERT Serveur\HeliosTransfert.Business\bin\Release\HeliosTransfert.Business.Dto.pdb
+E:\Client\HELIOS TRANSFERT Serveur\HeliosTransfert.Business\bin\Release\HeliosTransfert.Dal.pdb
+E:\Client\HELIOS TRANSFERT Serveur\HeliosTransfert.Business\bin\Release\FluentFTP.xml
+E:\Client\HELIOS TRANSFERT Serveur\HeliosTransfert.Business\obj\Release\HeliosTransfert.Business.csprojResolveAssemblyReference.cache
+E:\Client\HELIOS TRANSFERT Serveur\HeliosTransfert.Business\obj\Release\HeliosTransfert.Business.csproj.CoreCompileInputs.cache
+E:\Client\HELIOS TRANSFERT Serveur\HeliosTransfert.Business\obj\Release\HeliosTransfert.Business.dll
+E:\Client\HELIOS TRANSFERT Serveur\HeliosTransfert.Business\obj\Release\HeliosTransfert.Business.pdb

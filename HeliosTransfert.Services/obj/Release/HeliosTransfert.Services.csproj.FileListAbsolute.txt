@@ -16,3 +16,20 @@ C:\Users\ma.lasarte\Documents\GitHub\HTFR\HeliosTransfert.Services\obj\Release\H
 C:\Users\ma.lasarte\Documents\GitHub\HTFR\HeliosTransfert.Services\obj\Release\HeliosTransfert.Services.csproj.CopyComplete
 C:\Users\ma.lasarte\Documents\GitHub\HTFR\HeliosTransfert.Services\obj\Release\HeliosTransfert.Services.dll
 C:\Users\ma.lasarte\Documents\GitHub\HTFR\HeliosTransfert.Services\obj\Release\HeliosTransfert.Services.pdb
+E:\Client\HELIOS TRANSFERT Serveur\HeliosTransfert.Services\bin\Release\HeliosTransfert.Services.dll
+E:\Client\HELIOS TRANSFERT Serveur\HeliosTransfert.Services\bin\Release\HeliosTransfert.Services.pdb
+E:\Client\HELIOS TRANSFERT Serveur\HeliosTransfert.Services\bin\Release\HeliosTransfert.Business.dll
+E:\Client\HELIOS TRANSFERT Serveur\HeliosTransfert.Services\bin\Release\HeliosTransfert.Business.Dto.dll
+E:\Client\HELIOS TRANSFERT Serveur\HeliosTransfert.Services\bin\Release\Global.Business.Dto.dll
+E:\Client\HELIOS TRANSFERT Serveur\HeliosTransfert.Services\bin\Release\FluentFTP.dll
+E:\Client\HELIOS TRANSFERT Serveur\HeliosTransfert.Services\bin\Release\HeliosTransfert.Dal.dll
+E:\Client\HELIOS TRANSFERT Serveur\HeliosTransfert.Services\bin\Release\Global.Oracle.dll
+E:\Client\HELIOS TRANSFERT Serveur\HeliosTransfert.Services\bin\Release\Oracle.DataAccess.dll
+E:\Client\HELIOS TRANSFERT Serveur\HeliosTransfert.Services\bin\Release\HeliosTransfert.Business.Dto.pdb
+E:\Client\HELIOS TRANSFERT Serveur\HeliosTransfert.Services\bin\Release\HeliosTransfert.Business.pdb
+E:\Client\HELIOS TRANSFERT Serveur\HeliosTransfert.Services\bin\Release\FluentFTP.xml
+E:\Client\HELIOS TRANSFERT Serveur\HeliosTransfert.Services\bin\Release\HeliosTransfert.Dal.pdb
+E:\Client\HELIOS TRANSFERT Serveur\HeliosTransfert.Services\obj\Release\HeliosTransfert.Services.csprojResolveAssemblyReference.cache
+E:\Client\HELIOS TRANSFERT Serveur\HeliosTransfert.Services\obj\Release\HeliosTransfert.Services.csproj.CoreCompileInputs.cache
+E:\Client\HELIOS TRANSFERT Serveur\HeliosTransfert.Services\obj\Release\HeliosTransfert.Services.dll
+E:\Client\HELIOS TRANSFERT Serveur\HeliosTransfert.Services\obj\Release\HeliosTransfert.Services.pdb

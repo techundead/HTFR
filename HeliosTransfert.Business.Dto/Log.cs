@@ -13,24 +13,42 @@ namespace HeliosTransfert.Business.Dto
 
         public static void CreerFichierLog()
         {
+
+            if(Directory.Exists(Application.StartupPath + "\\log\\"))
+            {
+
+            }
+            else
+            {
+                Directory.CreateDirectory(Application.StartupPath + "\\log\\");
+            }
+
             DateTime dateJour = DateTime.Today;
             FileInfo file = new FileInfo(Application.StartupPath + "\\log\\" + dateJour.ToString("D") + ".txt");
 
             if (file.Exists)
             {
+                file.Refresh();
                 EcrirLog("Ouverture de l'application");
                 return;
             }
 
-            file.Create();
+            file.Create();           
 
         }
 
         public static void EcrirLog(String message)
         {
-            DateTime dateJour = DateTime.Today;
-            File.AppendAllText(Application.StartupPath + "\\log\\" + dateJour.ToString("D") + ".txt", DateTime.Now.ToString() + ": " + message + Environment.NewLine);
-           
+            try
+            {
+                DateTime dateJour = DateTime.Today;
+                File.AppendAllText(Application.StartupPath + "\\log\\" + dateJour.ToString("D") + ".txt", DateTime.Now.ToString() + ": " + message + Environment.NewLine);
+            }
+            catch
+            {
+                return;
+            }
+                    
         }
 
     }
